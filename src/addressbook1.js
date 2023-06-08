@@ -1,4 +1,4 @@
-//To create Person class
+//To create Person class with person information
 class Person{
     constructor(firstName,lastName,address,city,state,zip,phoneNumber,email){
         this.firstName  = firstName;
