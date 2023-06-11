@@ -131,4 +131,5 @@ let count = addressBook.reduce((counter,person) =>{
     return counter;
 },0);
 
+//To display total count of address book
 console.log("Total contacts in address book"+count);
